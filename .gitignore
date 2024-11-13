@@ -1,0 +1,9 @@
+saved/
+data/input/
+wandb/
+checkpoints/
+__pycache__/
+run_logs/
+*.log
+test.ipynb
+test.py
